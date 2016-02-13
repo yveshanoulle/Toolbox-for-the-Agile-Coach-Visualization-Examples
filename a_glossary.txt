@@ -1,0 +1,36 @@
+Typical translations
+
+To make our work easier and more clear, this is a list of important words to translate.
+Goal is to be consistent.
+
+We put the words in alphabetic order of the English words.
+
+After party ==> 
+Avatars ==> 
+Bottleneck ==> 
+Bug ==> 
+Daily Stand-up ==> 
+Examples ==> 
+High score ==> 
+Hourglass Scrum Wall ==>
+Icon ==> 
+Lane ==> 
+Pair programming ==> 
+Pairing ==> 
+Parking Lot ==> 
+Policies ==> 
+Queue ==> 
+Retrospective ==> 
+Story ==> 
+Ticket ==> 
+Urgent lane ==> 
+User Story lane ==> 
+Visualization ==> 
+Wall ==> 
+Waste ==> 
+Whiteboard ==> 
+WIP-limit ==> 
+Working agreement ==> 
+
+
+
